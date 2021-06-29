@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kloudji
 
-Kloudji is an upcoming (Simple & Fast) service to manage your tasks. Compose, manage and synchronize all of your tasks and schedules.
+- Visit our website ---> Kloudji.com
 
 
 <!---
